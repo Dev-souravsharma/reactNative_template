@@ -1,7 +1,7 @@
 import {ThemeProvider} from '@shopify/restyle';
 import React from 'react';
 import Main from './src/main';
-import theme from './src/theme';
+import {theme} from './src/theme';
 
 function App(): JSX.Element {
   return (

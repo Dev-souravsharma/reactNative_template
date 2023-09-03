@@ -1,4 +1,5 @@
-import theme, {Theme} from '.';
+import {Theme} from '.';
+import theme from './lightTheme';
 
 const darkTheme: Theme = {
   ...theme,
